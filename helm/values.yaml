@@ -1,0 +1,10 @@
+appName: dotnetsample
+serviceName: nginx-loadbalancer-service
+namespace: backend
+serviceHost: dotnetsample.com
+ingressName: ingress
+targetCPUUtilizationPercentage: 60
+
+image:
+  name: g181210038/dotnetsample
+  tag: latest
