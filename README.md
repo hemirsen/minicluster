@@ -24,7 +24,7 @@ minikube addons enable ingress
 minikube addons enable metrics-server 
 ```
 # Environment Overview
-![alt text](http://[url/to/img.png](https://github.com/hemirsen/minicluster/blob/main/img/overview.png))
+![alt text](https://github.com/hemirsen/minicluster/blob/main/img/overview.png)
 # Usage
 
 - Create namespace for backend services. 
