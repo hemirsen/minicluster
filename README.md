@@ -25,6 +25,10 @@ minikube addons enable metrics-server
 ```
 # Environment Overview
 ![alt text](https://github.com/hemirsen/minicluster/blob/main/img/overview.png)
+
+# Testing Application Endpoint
+![alt text](https://github.com/hemirsen/minicluster/blob/main/img/test.png)
+
 # Usage
 
 - Create namespace for backend services. 
